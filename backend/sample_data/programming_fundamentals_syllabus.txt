@@ -1,0 +1,16 @@
+PROGRAMMING FUNDAMENTALS - COURSE SYLLABUS (Semester 1)
+
+Unit 1: Introduction to Programming
+- Variables: declaring, naming and assigning values
+- Data types: integers, floating point numbers, strings, booleans; type conversion
+
+Unit 2: Expressions and Control Flow
+- Operators: arithmetic, comparison, logical; operator precedence
+- Conditional statements: if, else, elif, nested conditions
+- Loops: for and while loops, break and continue, nested loops
+
+Unit 3: Structuring Programs
+- Functions: defining functions, parameters, return values, scope
+- Arrays / lists: creating, indexing, slicing, iterating, common list operations
+
+Assessment: two quizzes, one lab exam and a final written exam.
